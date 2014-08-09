@@ -13,10 +13,7 @@ This is the **first** project for the Coursera Exploratory Data Analysis online 
 
 P.S. I have tried to include all pertinent information so that you can replicate this project...should you want to do that. I highly recommend the Coursera courses :)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> FETCH_HEAD
 ### Forked from: <https://github.com/rdpeng/ExData_Plotting1>
 
 ### O.S. 
