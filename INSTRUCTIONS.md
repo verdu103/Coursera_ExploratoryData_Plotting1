@@ -13,6 +13,8 @@ This is the **first** project for the Coursera Exploratory Data Analysis online 
 
 P.S. I have tried to include all pertinent information so that you can replicate this project...should you want to do that. I highly recommend the Coursera courses :)
 
+### Forked from: <https://github.com/rdpeng/ExData_Plotting1>
+
 ### O.S. 
 
 1. Mac OS X Version 10.9.4
@@ -47,21 +49,21 @@ The following link was used to download the data set.
 
 **Plot 2** 
 
-1. plot2.R contains the code to generate plot one
+1. plot2.R contains the code to generate plot two
 2. plot2.png contains the image file for the plot generated in the code.
 
 ![image](plot2.png)
 
 **Plot 3** 
 
-1. plot3.R contains the code to generate plot one
+1. plot3.R contains the code to generate plot three
 2. plot3.png contains the image file for the plot generated in the code.
 
 ![image](plot3.png)
 
 **Plot 4** 
 
-1. plot4.R contains the code to generate plot one
+1. plot4.R contains the code to generate plot four
 2. plot4.png contains the image file for the plot generated in the code.
 
 ![image](plot4.png)
